@@ -1,0 +1,49 @@
+[
+    {
+        "scene": "enter",
+        "texts": [
+            "\n                         Press ENTER to continue\n"
+        ]       
+    },
+    {
+        "scene": "reset",
+        "texts": [
+            "Le monde que vous connaissiez n'existe plus...",
+            "Tout a été réinitialisé.",
+            "Les défis que vous avez dû surmonter...",
+            "les ennemis que vous avez vaincus...",
+            "Tout, ",
+            "doit être refait.\n\n",
+            "Êtes-vous sûr de vouloir supprimer votre personnage ? Cette action est irréversible, vous ne pourrez plus récupérer votre progression.\nÊtes-vous absolument certain de vouloir continuer ?"
+        ]
+    },
+    {
+        "scene": "loading",
+        "texts": [
+            "...\n"
+        ]
+    },
+    {
+        "scene": "intro_name",
+        "texts": [
+            "Bien le bonjour ! Bienvenue dans le monde magique de TermiAdventure !\nMon nom est {} ! Les gens souvent m'appellent le Prof Python ! Tout d'abord, quel est ton nom ?\n",
+            "Ok ! Ton nom est donc {} ! ",
+            "Ta quête dans TerminAdventure est sur le point de commencer,\nun tout nouveau monde de rêves, d'aventures et de combats t'attend !",
+            " Dingue !\n"
+        ]
+    },
+    {
+        "scene": "intro_job",
+        "texts": [
+            "Attends {} ! Ne pars pas ! Des monstres vivent dans les environs du village !\nCes monstres peuvent surgir à tout instant! Tu as besoin de te spécialiser dans une classe pour progresser !\n\n",
+            "Allez, il est temps de se lancer ! Quelle voie souhaites-tu prendre ?\n\n"
+        ]
+    },
+    {
+        "scene": "intro_po",
+        "texts": [
+            "\n\nAvant de partir, prends ceci",
+            "\n{} reçoit {} pièces d'or.\n\n"
+        ]
+    }
+]

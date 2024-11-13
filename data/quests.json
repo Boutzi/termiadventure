@@ -1,0 +1,34 @@
+[
+  {
+    "quest_name": "L'appel de l'aventure",
+    "quest_description": "Bienvenue dans le monde de TerminAdventure, aventurier ! Tu te retrouves au début de ton aventure, sans savoir où aller ni quoi faire. Mais soudain, tu entends un appel à l'aventure. Quelque chose de grand et de périlleux t'attend, et tu dois t'engager si tu veux sauver le monde. C'est le début de ton voyage, où tu devras rassembler tes forces, affronter les ennemis et accomplir ta destinée.",
+    "quest_type": "Quête principale",
+    "quest_reward": 100,
+    "quest_location": "TermiVille",
+    "quest_status": "in_progress"
+  },
+  {
+    "quest_name": "Le village en danger",
+    "quest_description": "Tu arrives dans un petit village paisible, mais quelque chose ne va pas. Les habitants sont inquiets et terrifiés, car ils sont attaqués par des ennemis inconnus. Tu dois intervenir et aider les villageois à se défendre. Tu devras combattre les ennemis, trouver des indices et découvrir pourquoi le village est attaqué. Si tu réussis, tu deviendras un héros local et les villageois seront reconnaissants pour ton aide.",
+    "quest_type": "Quête secondaire",
+    "quest_reward": 30,
+    "quest_location": "TermiVille",
+    "quest_status": "not_started"
+  },
+  {
+    "quest_name": "La disparition du forgeron",
+    "quest_description": "Tu te rends à la forge pour obtenir une nouvelle arme ou un nouvel équipement, mais tu découvres que le forgeron a disparu. Personne ne sait où il est parti ou pourquoi. Tu dois enquêter pour découvrir ce qui s'est passé. Tu interroges des témoins, trouves des indices et résous des énigmes pour découvrir la vérité. Si tu réussis, tu pourras peut-être trouver le forgeron et obtenir des récompenses spéciales pour ta bravoure.",
+    "quest_type": "Quête secondaire",
+    "quest_reward": 20,
+    "quest_location": "TermiVille",
+    "quest_status": "completed"
+  },
+  {
+    "quest_name": "La traque du bandit",
+    "quest_description": "Tu apprends qu'un dangereux bandit est en liberté, causant des problèmes dans la région. Tu dois le poursuivre, le traquer et le vaincre pour que la justice soit rendue. Le bandit est rusé et utilise toutes les astuces pour échapper à toi, mais tu dois être plus malin pour le capturer. La chasse est longue et difficile, mais finalement, tu réussis à capturer le bandit et à obtenir une récompense pour ton travail acharné.",
+    "quest_type": "Quête secondaire",
+    "quest_reward": 35,
+    "quest_location": "Forest",
+    "quest_status": "not_started"
+  }
+]

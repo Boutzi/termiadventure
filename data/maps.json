@@ -1,0 +1,56 @@
+[
+  {
+    "name": "TermiVille",
+    "description": "A quiet and peaceful village",
+    "row": 10,
+    "col": 30,
+    "characters": [
+      {
+        "symbol": "S",
+        "x": 2,
+        "y": 5
+      },
+      {
+        "symbol": "T",
+        "x": 2,
+        "y": 10
+      },
+      {
+        "symbol": "Q",
+        "x": 2,
+        "y": 20
+      }
+    ]
+  },
+  {
+    "name": "Tavern",
+    "description": "A tavern with a lot of people",
+    "row": 15,
+    "col": 15,
+    "characters": []
+  },{
+    "name": "Items",
+    "description": "A shop with a lot of items",
+    "row": 5,
+    "col": 5,
+    "characters": []
+  },{
+    "name": "Quests",
+    "description": "A shop with a lot of quests",
+    "row": 5,
+    "col": 5,
+    "characters": []
+  },{
+    "name": "Forest",
+    "description": "A dark and dangerous forest",
+    "row": 5,
+    "col": 5,
+    "characters": []
+  },{
+    "name": "Cave",
+    "description": "A dark and dangerous cave",
+    "row": 5,
+    "col": 5,
+    "characters": []
+  }
+]

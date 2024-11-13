@@ -1,0 +1,65 @@
+[
+  {
+    "name": "Potion de vie mineure",
+    "description": "Rend 10 PV",
+    "price": 5,
+    "hp": 10,
+    "mana": 0
+  },
+  {
+    "name": "Potion de vie",
+    "description": "Rend 25 PV",
+    "price": 10,
+    "hp": 25,
+    "mana": 0
+  },
+  {
+    "name": "Potion de vie majeure",
+    "description": "Rend 50 PV",
+    "price": 15,
+    "hp": 50,
+    "mana": 0
+  },
+  {
+    "name": "Potion de mana mineure",
+    "description": "Rend 10 PM",
+    "price": 5,
+    "hp": 0,
+    "mana": 10
+  },
+  {
+    "name": "Potion de mana",
+    "description": "Rend 25 PM",
+    "price": 10,
+    "hp": 0,
+    "mana": 25
+  },
+  {
+    "name": "Potion de mana majeure",
+    "description": "Rend 50 PM",
+    "price": 15,
+    "hp": 0,
+    "mana": 50
+  },
+  {
+    "name": "Elixir de soin mineur",
+    "description": "Rend 50 PV et 10 PM",
+    "price": 20,
+    "hp": 50,
+    "mana": 10
+  },
+  {
+    "name": "Elixir de soin",
+    "description": "Rend 100 PV et 25 PM",
+    "price": 35,
+    "hp": 100,
+    "mana": 25
+  },
+  {
+    "name": "Elixir de soin majeur",
+    "description": "Rend 250 PV et 50 PM",
+    "price": 50,
+    "hp": 250,
+    "mana": 50
+  }
+]

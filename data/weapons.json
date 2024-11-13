@@ -1,0 +1,242 @@
+[
+  {
+    "class_name": "Gladiateur",
+    "weapon_name": "Guisarme ancestrale de la brume",
+    "price": 200,
+    "bonus_atk": 15
+  },
+  {
+    "class_name": "Gladiateur",
+    "weapon_name": "Guisarme divine de la Rédemption",
+    "price": 500,
+    "bonus_atk": 30
+  },
+  {
+    "class_name": "Gladiateur",
+    "weapon_name": "Guisarme légendaire de sombre-flamme",
+    "price": 1000,
+    "bonus_atk": 50
+  },
+  {
+    "class_name": "Gladiateur",
+    "weapon_name": "Guisarme sacrée de l'Apocalypse",
+    "price": 2000,
+    "bonus_atk": 100
+  },
+  {
+    "class_name": "Templier",
+    "weapon_name": "Espadon ancestral de la brume",
+    "price": 200,
+    "bonus_atk": 15
+  },
+  {
+    "class_name": "Templier",
+    "weapon_name": "Espadon divin de la Rédemption",
+    "price": 500,
+    "bonus_atk": 30
+  },
+  {
+    "class_name": "Templier",
+    "weapon_name": "Espadon légendaire de sombre-flamme",
+    "price": 1000,
+    "bonus_atk": 50
+  },
+  {
+    "class_name": "Templier",
+    "weapon_name": "Espadon sacré de l'Apocalypse",
+    "price": 2000,
+    "bonus_atk": 100
+  },
+  {
+    "class_name": "Assassin",
+    "weapon_name": "Dague ancestrale de la brume",
+    "price": 200,
+    "bonus_atk": 15
+  },
+  {
+    "class_name": "Assassin",
+    "weapon_name": "Dague divine de Poison",
+    "price": 500,
+    "bonus_atk": 30
+  },
+  {
+    "class_name": "Assassin",
+    "weapon_name": "Dague ultime d'Anomos",
+    "price": 1000,
+    "bonus_atk": 50
+  },
+  {
+    "class_name": "Assassin",
+    "weapon_name": "Dague sacrée de Tempête",
+    "price": 2000,
+    "bonus_atk": 100
+  },
+  {
+    "class_name": "Rôdeur",
+    "weapon_name": "Arc ancestral de la brume",
+    "price": 200,
+    "bonus_atk": 15
+  },
+  {
+    "class_name": "Rôdeur",
+    "weapon_name": "Arc divin de Poison",
+    "price": 500,
+    "bonus_atk": 30
+  },
+  {
+    "class_name": "Rôdeur",
+    "weapon_name": "Arc ultime d'Anomos",
+    "price": 1000,
+    "bonus_atk": 50
+  },
+  {
+    "class_name": "Rôdeur",
+    "weapon_name": "Arc sacré de Tempête",
+    "price": 2000,
+    "bonus_atk": 100
+  },
+  {
+    "class_name": "Sorcier",
+    "weapon_name": "Orbe ancestrale de la brume",
+    "price": 200,
+    "bonus_atk": 15
+  },
+  {
+    "class_name": "Sorcier",
+    "weapon_name": "Orbe divine du Chaos",
+    "price": 500,
+    "bonus_atk": 30
+  },
+  {
+    "class_name": "Sorcier",
+    "weapon_name": "Orbe ultime des braises dansantes",
+    "price": 1000,
+    "bonus_atk": 50
+  },
+  {
+    "class_name": "Sorcier",
+    "weapon_name": "Orbe sacrée de la Tourmante",
+    "price": 2000,
+    "bonus_atk": 100
+  },
+  {
+    "class_name": "Spiritualiste",
+    "weapon_name": "Grimoire ancestral de la brume",
+    "price": 200,
+    "bonus_atk": 15
+  },
+  {
+    "class_name": "Spiritualiste",
+    "weapon_name": "Grimoire divin du Chaos",
+    "price": 500,
+    "bonus_atk": 30
+  },
+  {
+    "class_name": "Spiritualiste",
+    "weapon_name": "Grimoire ultime des braises dansantes",
+    "price": 1000,
+    "bonus_atk": 50
+  },
+  {
+    "class_name": "Spiritualiste",
+    "weapon_name": "Grimoire sacré de la Tourmante",
+    "price": 2000,
+    "bonus_atk": 100
+  },
+  {
+    "class_name": "Clerc",
+    "weapon_name": "Masse ancestrale de la brume",
+    "price": 200,
+    "bonus_atk": 15
+  },
+  {
+    "class_name": "Clerc",
+    "weapon_name": "Masse divine de la Justice",
+    "price": 500,
+    "bonus_atk": 30
+  },
+  {
+    "class_name": "Clerc",
+    "weapon_name": "Masse ultime de flamme rouge dansante",
+    "price": 1000,
+    "bonus_atk": 50
+  },
+  {
+    "class_name": "Clerc",
+    "weapon_name": "Masse sacrée de la Lumière infinie",
+    "price": 2000,
+    "bonus_atk": 100
+  },
+  {
+    "class_name": "Aède",
+    "weapon_name": "Bâton ancestral de la brume",
+    "price": 200,
+    "bonus_atk": 15
+  },
+  {
+    "class_name": "Aède",
+    "weapon_name": "Bâton divin de la Justice ",
+    "price": 500,
+    "bonus_atk": 30
+  },
+  {
+    "class_name": "Aède",
+    "weapon_name": "Bâton ultime de flamme rouge dansante",
+    "price": 1000,
+    "bonus_atk": 50
+  },
+  {
+    "class_name": "Aède",
+    "weapon_name": "Bâton sacré de la Lumière infinie",
+    "price": 2000,
+    "bonus_atk": 100
+  },
+  {
+    "class_name": "Pistolero",
+    "weapon_name": "Revolver ancestral de la brume",
+    "price": 200,
+    "bonus_atk": 15
+  },
+  {
+    "class_name": "Pistolero",
+    "weapon_name": "Revolver divin de l'Extermination",
+    "price": 500,
+    "bonus_atk": 30
+  },
+  {
+    "class_name": "Pistolero",
+    "weapon_name": "Revolver ultime du dragon sage",
+    "price": 1000,
+    "bonus_atk": 50
+  },
+  {
+    "class_name": "Pistolero",
+    "weapon_name": "Revolver sacré des flammes éternelles",
+    "price": 2000,
+    "bonus_atk": 100
+  },
+  {
+    "class_name": "Barde",
+    "weapon_name": "Lyre ancestrale de la brume",
+    "price": 200,
+    "bonus_atk": 15
+  },
+  {
+    "class_name": "Barde",
+    "weapon_name": "Lyre divine de la Mélodie céleste",
+    "price": 500,
+    "bonus_atk": 30
+  },
+  {
+    "class_name": "Barde",
+    "weapon_name": "Lyre ultime de la plume-noire",
+    "price": 1000,
+    "bonus_atk": 50
+  },
+  {
+    "class_name": "Barde",
+    "weapon_name": "Lyre sacrée de l'Harmonie Céleste",
+    "price": 2000,
+    "bonus_atk": 100
+  }
+]

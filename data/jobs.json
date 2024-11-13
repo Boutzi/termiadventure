@@ -1,0 +1,101 @@
+[
+  {
+    "name": "Gladiateur",
+    "description": "Puissance, vitalité, agilité",
+    "hp": 100,
+    "mp": 50,
+    "atk": 10,
+    "deff": 10,
+    "ascent": "Tu as choisi la voie du Gladiateur, le guerrier par excellence. \nArmé d'une guisarme, tu fonces dans la mêlée, protégeant tes alliés et terrassant tes ennemis avec force et agilité."
+  },
+  {
+    "name": "Templier",
+    "description": "Puissance, santé, précision",
+    "hp": 100,
+    "mp": 50,
+    "atk": 10,
+    "deff": 10,
+    "ascent": "Tu as choisi la voie du Templier, le défenseur sacré. \nVêtu d'une armure lourde et armé d'un espadon, tu protèges tes alliés avec ferveur tout en appliquant du contrôle de foule sur tes ennemis."
+  },
+  {
+    "name": "Assassin",
+    "description": "Agilité, précision, force",
+    "hp": 100,
+    "mp": 50,
+    "atk": 10,
+    "deff": 10,
+    "ascent": "Tu as choisi la voie de l'Assassin, le maître de l'ombre. Armé de deux dagues, tu te faufiles derrière tes ennemis et les élimines rapidement et efficacement, laissant derrière toi une traînée de sang."
+  },
+  {
+    "name": "Rôdeur",
+    "description": "Agilité, santé, précision",
+    "hp": 100,
+    "mp": 50,
+    "atk": 10,
+    "deff": 10,
+    "ascent": "Tu as choisi la voie du Rôdeur, le chasseur solitaire. \nArmé d'un arc, tu es à la fois rapide et silencieux, capable d'attaquer à distance et d'appliquer de lourds dégats."
+  },
+  {
+    "name": "Sorcier",
+    "description": "Intelligence, foi, agilité",
+    "hp": 100,
+    "mp": 50,
+    "atk": 10,
+    "deff": 10,
+    "ascent": "Tu as choisi la voie du Sorcier, le manipulateur des éléments. \nMaître de la magie, tu invoques les forces de la nature pour déchaîner des éclairs et des flammes sur tes ennemis, causant des dégâts considérables."
+  },
+  {
+    "name": "Spiritualiste",
+    "description": "Intelligence, foi, agilité",
+    "hp": 100,
+    "mp": 50,
+    "atk": 10,
+    "deff": 10,
+    "ascent": "Tu as choisi la voie du Spiritualiste, le gardien des âmes. \nCapable de communiquer avec les esprits, tu invoques des créatures surnaturelles pour combattre à tes côtés et te protéger des assaillants."
+  },
+  {
+    "name": "Clerc",
+    "description": "Foi, intelligence, agilité",
+    "hp": 100,
+    "mp": 50,
+    "atk": 10,
+    "deff": 10,
+    "ascent": "Tu as choisi la voie du Clerc, le guérisseur divin. \nArmé d'une masse sacrée, tu soignes les blessures de tes alliés et infliges des dégâts aux ennemis grâce à la puissance de la lumière."
+  },
+  {
+    "name": "Aède",
+    "description": "Foi, intelligence, agilité",
+    "hp": 100,
+    "mp": 50,
+    "atk": 10,
+    "deff": 10,
+    "ascent": "L'Aède est un maître de la méditation et de la guérison, \ncapable de soigner les blessures de ses alliés et de les soutenir mentalement. \nAvec ses mantras, il peut accroître leur discipline et leur détermination, tandis que son bâton lui sert à canaliser sa magie. \nL'Aède est un allié précieux pour toute équipe qui cherche à rester en bonne santé mentale et physique en toutes circonstances."
+  },
+  {
+    "name": "Pistolero",
+    "description": "Agilité, vitalité, puissance",
+    "hp": 100,
+    "mp": 50,
+    "atk": 10,
+    "deff": 10,
+    "ascent": "Tu as choisi la voie du Pistolero, le tireur d'élite. \nArmé de deux pistolets, tu vises avec précision et rapidité, infligeant des dégâts considérables à tes ennemis tout en restant à distance."
+  },
+  {
+    "name": "Aethertech",
+    "description": "Puissance, vitalité",
+    "hp": 100,
+    "mp": 50,
+    "atk": 10,
+    "deff": 10,
+    "ascent": "Tu as choisi la voie de l'Aethertech, le maître des machines. \nEquipé d'une armure mécanique et d'une arme à feu, tu es capable de voler et de projeter des sorts puissants grâce à l'énergie aethérique."
+  },
+  {
+    "name": "Barde",
+    "description": "Intelligence, santé, foi",
+    "hp": 100,
+    "mp": 50,
+    "atk": 10,
+    "deff": 10,
+    "ascent": "Tu as choisi la voie du Barde, le maître de la musique et de la poésie, capable d'inspirer ses alliés et de désorienter ses ennemis grâce à ses talents. \nIl peut chanter des ballades qui améliorent les compétences de combat de ses alliés ou qui affaiblissent les ennemis. Avec sa lyre, il peut également invoquer des créatures magiques pour combattre à ses côtés. Le Barde est un atout précieux pour n'importe quelle équipe, apportant sa touche musicale à chaque bataille."
+  }
+]

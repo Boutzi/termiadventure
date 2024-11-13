@@ -1,0 +1,326 @@
+[
+  {
+    "class_name": "Gladiateur",
+    "armor_name": "Plastron de plates ancestral de la brume",
+    "price": 200,
+    "bonus_deff": 10
+  },
+  {
+    "class_name": "Gladiateur",
+    "armor_name": "Jambières de plates ancestrales de la brume",
+    "price": 100,
+    "bonus_deff": 8
+  },
+  {
+    "class_name": "Gladiateur",
+    "armor_name": "Casque de plates ancestral de la brume",
+    "price": 80,
+    "bonus_deff": 6
+  },
+  {
+    "class_name": "Gladiateur",
+    "armor_name": "Bottes de plates ancestrales de la brume",
+    "price": 60,
+    "bonus_deff": 4
+  },
+  {
+    "class_name": "Gladiateur",
+    "armor_name": "Ailettes de plates ancestrales de la brume",
+    "price": 50,
+    "bonus_deff": 3
+  },
+  {
+    "class_name": "Gladiateur",
+    "armor_name": "Gants en plates ancestraux de la brume",
+    "price": 40,
+    "bonus_deff": 2
+  },
+  {
+    "class_name": "Templier",
+    "armor_name": "Plastron de plates divin de la Rédemption",
+    "price": 200,
+    "bonus_deff": 10
+  },
+  {
+    "class_name": "Templier",
+    "armor_name": "Jambières de plates divines de la Rédemption",
+    "price": 100,
+    "bonus_deff": 8
+  },
+  {
+    "class_name": "Templier",
+    "armor_name": "Casque de plates divin de la Rédemption",
+    "price": 80,
+    "bonus_deff": 6
+  },
+  {
+    "class_name": "Templier",
+    "armor_name": "Bottes de plates divines de la Rédemption",
+    "price": 60,
+    "bonus_deff": 4
+  },
+  {
+    "class_name": "Templier",
+    "armor_name": "Ailettes de plates divines de la Rédemption",
+    "price": 50,
+    "bonus_deff": 3
+  },
+  {
+    "class_name": "Templier",
+    "armor_name": "Gants en plates divins de la Rédemption",
+    "price": 40,
+    "bonus_deff": 2
+  },
+  {
+    "class_name": "Assassin",
+    "armor_name": "Cotte en cuir ancestrale de la brume",
+    "price": 150,
+    "bonus_deff": 7
+  },
+  {
+    "class_name": "Assassin",
+    "armor_name": "Jambières en cuir ancestrales de la brume",
+    "price": 75,
+    "bonus_deff": 5
+  },
+  {
+    "class_name": "Assassin",
+    "armor_name": "Casque en cuir ancestral de la brume",
+    "price": 60,
+    "bonus_deff": 4
+  },
+  {
+    "class_name": "Assassin",
+    "armor_name": "Bottes en cuir ancestrales de la brume",
+    "price": 45,
+    "bonus_deff": 3
+  },
+  {
+    "class_name": "Assassin",
+    "armor_name": "Ailettes en cuir ancestrales de la brume",
+    "price": 35,
+    "bonus_deff": 2
+  },
+  {
+    "class_name": "Assassin",
+    "armor_name": "Gants en cuir ancestraux de la brume",
+    "price": 25,
+    "bonus_deff": 1
+  },
+  {
+    "class_name": "Rôdeur",
+    "armor_name": "Cotte en cuir divin de Poison",
+    "price": 150,
+    "bonus_deff": 7
+  },
+  {
+    "class_name": "Rôdeur",
+    "armor_name": "Jambières en cuir divines de Poison",
+    "price": 75,
+    "bonus_deff": 5
+  },
+  {
+    "class_name": "Rôdeur",
+    "armor_name": "Casque en cuir divin de Poison",
+    "price": 60,
+    "bonus_deff": 4
+  },
+  {
+    "class_name": "Rôdeur",
+    "armor_name": "Bottes en cuir divines de Poison",
+    "price": 45,
+    "bonus_deff": 3
+  },
+  {
+    "class_name": "Rôdeur",
+    "armor_name": "Ailettes en cuir divines de Poison",
+    "price": 35,
+    "bonus_deff": 2
+  },
+  {
+    "class_name": "Rôdeur",
+    "armor_name": "Gants en cuir divins de Poison",
+    "price": 25,
+    "bonus_deff": 1
+  },
+  {
+    "class_name": "Sorcier",
+    "armor_name": "Robe ancestrale de la brume",
+    "price": 120,
+    "bonus_deff": 6
+  },
+  {
+    "class_name": "Sorcier",
+    "armor_name": "Pantalon ancestral de la brume",
+    "price": 60,
+    "bonus_deff": 4
+  },
+  {
+    "class_name": "Sorcier",
+    "armor_name": "Capuche ancestrale de la brume",
+    "price": 48,
+    "bonus_deff": 3
+  },
+  {
+    "class_name": "Sorcier",
+    "armor_name": "Bottes ancestrales de la brume",
+    "price": 36,
+    "bonus_deff": 2
+  },
+  {
+    "class_name": "Sorcier",
+    "armor_name": "Gants ancestraux de la brume",
+    "price": 24,
+    "bonus_deff": 1
+  },
+  {
+    "class_name": "Spiritualiste",
+    "armor_name": "Robe divine du Chaos",
+    "price": 120,
+    "bonus_deff": 6
+  },
+  {
+    "class_name": "Spiritualiste",
+    "armor_name": "Pantalon divin du Chaos",
+    "price": 60,
+    "bonus_deff": 4
+  },
+  {
+    "class_name": "Spiritualiste",
+    "armor_name": "Capuche divine du Chaos",
+    "price": 48,
+    "bonus_deff": 3
+  },
+  {
+    "class_name": "Spiritualiste",
+    "armor_name": "Bottes divines du Chaos",
+    "price": 36,
+    "bonus_deff": 2
+  },
+  {
+    "class_name": "Spiritualiste",
+    "armor_name": "Gants divins du Chaos",
+    "price": 24,
+    "bonus_deff": 1
+  },
+  {
+    "class_name": "Clerc",
+    "armor_name": "Armure ancestrale de la brume",
+    "price": 180,
+    "bonus_deff": 8
+  },
+  {
+    "class_name": "Clerc",
+    "armor_name": "Jambières ancestrales de la brume",
+    "price": 90,
+    "bonus_deff": 6
+  },
+  {
+    "class_name": "Clerc",
+    "armor_name": "Casque ancestral de la brume",
+    "price": 72,
+    "bonus_deff": 4
+  },
+  {
+    "class_name": "Clerc",
+    "armor_name": "Bottes ancestrales de la brume",
+    "price": 54,
+    "bonus_deff": 3
+  },
+  {
+    "class_name": "Clerc",
+    "armor_name": "Gants ancestraux de la brume",
+    "price": 36,
+    "bonus_deff": 2
+  },
+  {
+    "class_name": "Aède",
+    "armor_name": "Tunique divine de la Justice",
+    "price": 150,
+    "bonus_deff": 7
+  },
+  {
+    "class_name": "Aède",
+    "armor_name": "Pantalon divin de la Justice",
+    "price": 75,
+    "bonus_deff": 5
+  },
+  {
+    "class_name": "Aède",
+    "armor_name": "Chapeau divin de la Justice",
+    "price": 60,
+    "bonus_deff": 4
+  },
+  {
+    "class_name": "Aède",
+    "armor_name": "Bottes divines de la Justice",
+    "price": 45,
+    "bonus_deff": 3
+  },
+  {
+    "class_name": "Aède",
+    "armor_name": "Gants divins de la Justice",
+    "price": 30,
+    "bonus_deff": 2
+  },
+  {
+    "class_name": "Pistolero",
+    "armor_name": "Gilet ancestral de la brume",
+    "price": 130,
+    "bonus_deff": 6
+  },
+  {
+    "class_name": "Pistolero",
+    "armor_name": "Pantalon ancestral de la brume",
+    "price": 65,
+    "bonus_deff": 4
+  },
+  {
+    "class_name": "Pistolero",
+    "armor_name": "Chapeau ancestral de la brume",
+    "price": 52,
+    "bonus_deff": 3
+  },
+  {
+    "class_name": "Pistolero",
+    "armor_name": "Bottes ancestrales de la brume",
+    "price": 39,
+    "bonus_deff": 2
+  },
+  {
+    "class_name": "Pistolero",
+    "armor_name": "Gants ancestraux de la brume",
+    "price": 26,
+    "bonus_deff": 1
+  },
+  {
+    "class_name": "Barde",
+    "armor_name": "Robe divine de la Mélodie céleste",
+    "price": 160,
+    "bonus_deff": 7
+  },
+  {
+    "class_name": "Barde",
+    "armor_name": "Jupons divins de la Mélodie céleste",
+    "price": 80,
+    "bonus_deff": 5
+  },
+  {
+    "class_name": "Barde",
+    "armor_name": "Coiffe divine de la Mélodie céleste",
+    "price": 64,
+    "bonus_deff": 4
+  },
+  {
+    "class_name": "Barde",
+    "armor_name": "Bottes divines de la Mélodie céleste",
+    "price": 48,
+    "bonus_deff": 3
+  },
+  {
+    "class_name": "Barde",
+    "armor_name": "Gants divins de la Mélodie céleste",
+    "price": 32,
+    "bonus_deff": 2
+  }
+]
